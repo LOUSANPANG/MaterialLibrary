@@ -1,8 +1,8 @@
 
 #### This stores the images needed for the GitHub repository, such as blog material, demo material, etc.
 
-<input type="checkbox" checked> blog material </input>
+- [x] blog material
 
-<input type="checkbox" checked> demo material </input>
+- [x] demo material
 
-<input type="checkbox" checked> etc </input>
+- [ ] etc
